@@ -1,0 +1,21 @@
+features:
+	actual saving
+	addition
+remove:
+	
+change:
+	
+bugs:
+	
+completed:
+	features:
+		count now goes to -9 when needed
+		leftover now included when counting down
+	removed:
+		
+	changed:
+		
+	bugs:
+		
+credits:
+	kevin macleod
